@@ -1,5 +1,7 @@
 [中文](https://github.com/rrrexfield/CraftInside/blob/master/README.md) | English
-
+<p align="center">
+  <img src="https://github.com/ElemCraftInside-Server/ElemCraftInside-Modpack/blob/Development-Log/IMG_20240307_233125.jpg" width="200px">
+</p>
 **Welcome to the Minecraft world of CraftInside! This is not just a game server, but also a creative paradise. Here, you will open the doors to endless possibilities, unlock the power of creativity, join our server, and embark on your adventure with like-minded companions!**
 
 **Explore the secrets of mods like *Creat, Farmer's Delight, decor, furniture*, and more, breaking through the limitations of Minecraft's vanilla version. Whether it's crafting more complex and efficient machines, experiencing the joy of cooking, or building more beautiful and realistic structures, our server is always open to you. Our usage documentation will provide you with detailed guidance, helping you become a true Minecraft master!**
